@@ -5,7 +5,7 @@ AddOn = {
 
 MAP = {
     [994732206] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/bloxfruit", -- Blox Fruits
-    [1451439645] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/kinglegacy", -- King Legacy
+    [1451439645] = "https://raw.githubusercontent.com/Winnablez/ScriptTrash/main/kinglegacy", -- King Legacy
     [4658766475] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/AnimeSwordsSimulator", -- Anime Swords Simulator
     [3222903591] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/AnimeWarriorsSimulator2", -- Anime Warriors Simulator 2
     [2316994223] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/petsimx", -- Pet Simulator X
