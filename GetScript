@@ -1,5 +1,5 @@
 AddOn = {
-    ["AimbotBloxFruit"] = "https://raw.githubusercontent.com/S1000RZ/Wannabe/main/BloxFruitPVP",
+    ["AimbotBloxFruit"] = "https://raw.githubusercontent.com/Winnablez/ScriptTrash/main/AimbotBloxFruit",
     ["PvPBloxFruitMB"] = "https://raw.githubusercontent.com/Winnablez/ScriptTrash/main/addon_mb_pvp"
 }
 
